@@ -1,0 +1,10 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guilherme Fidelis da Silva",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.2.0"
+  }
+}
